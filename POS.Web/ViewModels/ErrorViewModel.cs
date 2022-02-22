@@ -1,6 +1,6 @@
 using System;
 
-namespace POS.Web.Models
+namespace POS.Web.ViewModels
 {
     public class ErrorViewModel
     {
